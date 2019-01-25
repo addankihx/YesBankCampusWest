@@ -1,4 +1,4 @@
-cust_id_token,current_address3,current_city,current_state,current_pin_code,permanent_address,permanent_city,permanent_state,permanent_pin_code
+cust_id_token,current_address,current_city,current_state,current_pin_code,permanent_address,permanent_city,permanent_state,permanent_pin_code
 1,JAMBI,INDONESIA,36126,CHENNAI,TAMIL NADU,600029,,
 2,INJAMBAKKAM,CHENNAI,TAMIL NADU,600115,LONDON,MIDDLE SEX,HA047H,
 3,ROODEPOORT,JOHANNESBURG,GAUTENG,2169,MANDIR RMC GARDEN,PUNE,MAHARASHTRA,412207
